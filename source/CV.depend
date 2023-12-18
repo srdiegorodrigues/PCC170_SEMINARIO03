@@ -1,0 +1,282 @@
+# depslib dependency file v1.0
+1540505863 source:c:\users\debna\desktop\caixeiro viajante\cv\ag.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<Limits.h>
+	"Listas.h"
+	"Estruturas.h"
+	"Util.h"
+	"AG.h"
+	"Construcao.h"
+	"GRASP.h"
+	"Descida.h"
+
+1099186532 c:\users\debna\desktop\caixeiro viajante\cv\listas.h
+
+1100566014 c:\users\debna\desktop\caixeiro viajante\cv\estruturas.h
+
+1534877536 c:\users\debna\desktop\caixeiro viajante\cv\util.h
+
+1103159206 c:\users\debna\desktop\caixeiro viajante\cv\ag.h
+
+1155677054 c:\users\debna\desktop\caixeiro viajante\cv\construcao.h
+
+1537738768 c:\users\debna\desktop\caixeiro viajante\cv\grasp.h
+
+1535048319 c:\users\debna\desktop\caixeiro viajante\cv\descida.h
+
+1152056472 source:c:\users\debna\desktop\caixeiro viajante\cv\arquivos.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<limits.h>
+	<time.h>
+	"Util.h"
+	"Arquivos.h"
+
+1152052468 c:\users\debna\desktop\caixeiro viajante\cv\arquivos.h
+
+1534876855 source:c:\users\debna\desktop\caixeiro viajante\cv\construcao.cpp
+	<stdio.h>
+	<stdlib.h>
+	<Limits.h>
+	"Listas.h"
+	"Estruturas.h"
+	"Util.h"
+	"Construcao.h"
+
+1537794824 source:c:\users\debna\desktop\caixeiro viajante\cv\grasp.cpp
+	<stdio.h>
+	<limits.h>
+	<stdlib.h>
+	"Construcao.h"
+	"Util.h"
+	"Descida.h"
+	"GRASP.h"
+
+1538596844 source:c:\users\debna\desktop\caixeiro viajante\cv\ils.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"Util.h"
+	"Arquivos.h"
+	"Descida.h"
+	"ILS.h"
+
+1182167112 c:\users\debna\desktop\caixeiro viajante\cv\ils.h
+
+1152051010 source:c:\users\debna\desktop\caixeiro viajante\cv\listas.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<limits.h>
+	<time.h>
+	"Util.h"
+	"Estruturas.h"
+	"Listas.h"
+
+1603897072 source:c:\users\debna\desktop\caixeiro viajante\cv\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<limits.h>
+	<time.h>
+	"Util.h"
+	"Arquivos.h"
+	"Estruturas.h"
+	"Construcao.h"
+	"Listas.h"
+	"Menus.h"
+	"Descida.h"
+	"SA.h"
+	"GRASP.h"
+	"AG.h"
+	"ILS.h"
+
+1117017006 c:\users\debna\desktop\caixeiro viajante\cv\menus.h
+
+1101773942 c:\users\debna\desktop\caixeiro viajante\cv\sa.h
+
+1535051530 source:c:\users\debna\desktop\caixeiro viajante\cv\menus.cpp
+	<stdio.h>
+	"Menus.h"
+
+1535650235 source:c:\users\debna\desktop\caixeiro viajante\cv\sa.cpp
+	"Util.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+	<time.h>
+	"Descida.h"
+	"Util.h"
+	"SA.h"
+	"Arquivos.h"
+
+1534877470 source:c:\users\debna\desktop\caixeiro viajante\cv\util.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<limits.h>
+	<time.h>
+	"Util.h"
+	"Estruturas.h"
+	"Listas.h"
+
+1603896718 source:c:\users\debna\desktop\caixeiro viajante\cv\descida.cpp
+	"Util.h"
+	<stdio.h>
+	<stdlib.h>
+	"Descida.h"
+	<time.h>
+	"Arquivos.h"
+	"Construcao.h"
+
+1540505863 source:c:\users\debna\desktop\pcv c\pcv\cv\ag.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<Limits.h>
+	"Listas.h"
+	"Estruturas.h"
+	"Util.h"
+	"AG.h"
+	"Construcao.h"
+	"GRASP.h"
+	"Descida.h"
+
+1099186532 c:\users\debna\desktop\pcv c\pcv\cv\listas.h
+
+1100566014 c:\users\debna\desktop\pcv c\pcv\cv\estruturas.h
+
+1534877536 c:\users\debna\desktop\pcv c\pcv\cv\util.h
+
+1103159206 c:\users\debna\desktop\pcv c\pcv\cv\ag.h
+
+1155677054 c:\users\debna\desktop\pcv c\pcv\cv\construcao.h
+
+1606868403 c:\users\debna\desktop\pcv c\pcv\cv\grasp.h
+
+1535048319 c:\users\debna\desktop\pcv c\pcv\cv\descida.h
+
+1606955172 source:c:\users\debna\desktop\pcv c\pcv\cv\arquivos.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<limits.h>
+	<time.h>
+	"Util.h"
+	"Arquivos.h"
+
+1606955296 c:\users\debna\desktop\pcv c\pcv\cv\arquivos.h
+
+1534876855 source:c:\users\debna\desktop\pcv c\pcv\cv\construcao.cpp
+	<stdio.h>
+	<stdlib.h>
+	<Limits.h>
+	"Listas.h"
+	"Estruturas.h"
+	"Util.h"
+	"Construcao.h"
+
+1606955388 source:c:\users\debna\desktop\pcv c\pcv\cv\descida.cpp
+	"Util.h"
+	<stdio.h>
+	<stdlib.h>
+	"Descida.h"
+	<time.h>
+	"Arquivos.h"
+	"Construcao.h"
+	<iostream>
+
+1606868904 source:c:\users\debna\desktop\pcv c\pcv\cv\grasp.cpp
+	<stdio.h>
+	<limits.h>
+	<stdlib.h>
+	"Construcao.h"
+	"Util.h"
+	"Descida.h"
+	<iostream>
+	"GRASP.h"
+
+1606952094 source:c:\users\debna\desktop\pcv c\pcv\cv\ils.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"Util.h"
+	"Arquivos.h"
+	"Descida.h"
+	<iostream>
+	"ILS.h"
+
+1182167112 c:\users\debna\desktop\pcv c\pcv\cv\ils.h
+
+1152051010 source:c:\users\debna\desktop\pcv c\pcv\cv\listas.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<limits.h>
+	<time.h>
+	"Util.h"
+	"Estruturas.h"
+	"Listas.h"
+
+1606954365 source:c:\users\debna\desktop\pcv c\pcv\cv\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+	<time.h>
+	"Util.h"
+	"Arquivos.h"
+	"Estruturas.h"
+	"Construcao.h"
+	"Listas.h"
+	"Menus.h"
+	"Descida.h"
+	<iostream>
+	<string.h>
+	<cstdlib>
+	"ILS.h"
+	<vector>
+
+1117017006 c:\users\debna\desktop\pcv c\pcv\cv\menus.h
+
+1101773942 c:\users\debna\desktop\pcv c\pcv\cv\sa.h
+
+1535051530 source:c:\users\debna\desktop\pcv c\pcv\cv\menus.cpp
+	<stdio.h>
+	"Menus.h"
+
+1535650235 source:c:\users\debna\desktop\pcv c\pcv\cv\sa.cpp
+	"Util.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+	<time.h>
+	"Descida.h"
+	"Util.h"
+	"SA.h"
+	"Arquivos.h"
+
+1534877470 source:c:\users\debna\desktop\pcv c\pcv\cv\util.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<limits.h>
+	<time.h>
+	"Util.h"
+	"Estruturas.h"
+	"Listas.h"
+
