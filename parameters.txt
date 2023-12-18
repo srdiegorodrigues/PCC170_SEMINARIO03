@@ -1,0 +1,4 @@
+### Parameter file for PARTICAO_NUMEROS
+# name		switch			type		values		[conditions (using R syntax)]
+vezesnivel	"--VEZESNIVEL "		c  		(5, 10, 15, 20, 25, 30, 35, 40, 45, 50)
+ilsmax          "--ILSMAX "	   	c  		(25, 50, 75, 100, 125)
